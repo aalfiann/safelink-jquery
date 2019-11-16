@@ -1,6 +1,6 @@
 {
   "name": "safelink-jquery",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Safelink jQuery Plugin",
   "main": "src/safelink.js",
   "directories": {

@@ -16,9 +16,9 @@ $ npm install safelink-jquery
 
 ## Or use CDN Directly
 ```html
-<script src="https://cdn.jsdelivr.net/npm/safelink-jquery@1.0.0/src/safelink.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/safelink-jquery@1.1.0/src/safelink.js"></script>
 // or
-<script src="https://cdn.jsdelivr.net/npm/safelink-jquery@1.0.0/src/safelink.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/safelink-jquery@1.1.0/src/safelink.min.js"></script>
 ```
 
 ## Usage
