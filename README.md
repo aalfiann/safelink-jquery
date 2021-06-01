@@ -2,7 +2,7 @@
 [![NPM](https://nodei.co/npm/safelink-jquery.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/safelink-jquery/)  
   
 [![npm version](https://img.shields.io/npm/v/safelink-jquery.svg?style=flat-square)](https://www.npmjs.org/package/safelink-jquery)
-[![Build Status](https://travis-ci.org/aalfiann/safelink-jquery.svg?branch=master)](https://travis-ci.org/aalfiann/safelink-jquery)
+[![Build Status](https://travis-ci.com/aalfiann/safelink-jquery.svg?branch=master)](https://travis-ci.com/aalfiann/safelink-jquery)
 [![Coverage Status](https://coveralls.io/repos/github/aalfiann/safelink-jquery/badge.svg?branch=master)](https://coveralls.io/github/aalfiann/safelink-jquery?branch=master)
 [![Known Vulnerabilities](https://snyk.io//test/github/aalfiann/safelink-jquery/badge.svg?targetFile=package.json)](https://snyk.io//test/github/aalfiann/safelink-jquery?targetFile=package.json)
 [![dependencies Status](https://david-dm.org/aalfiann/safelink-jquery/status.svg)](https://david-dm.org/aalfiann/safelink-jquery)
